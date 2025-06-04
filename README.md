@@ -37,7 +37,32 @@ To add our C# Script file to our selected object, click on the C# Script file an
 Stop
 
 ## Program:
+```
+Developed by: Vanitha S
+Register Number: 212222100057
 
+```
+```
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class jm : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        transform.RotateAround(Vector3.right, Vector3.up, 70 * Time.deltaTime);
+    }
+}
+```
 ## Output:
+![image](https://github.com/user-attachments/assets/4ce707be-c462-4668-84bb-4716c964f111)
 
 ## Result:
