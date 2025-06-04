@@ -66,3 +66,4 @@ public class jm : MonoBehaviour
 ![image](https://github.com/user-attachments/assets/4ce707be-c462-4668-84bb-4716c964f111)
 
 ## Result:
+Thus the output for the rotating the object successfully displayed.
